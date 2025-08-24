@@ -31,7 +31,7 @@ Powered by `Python`, `Google Calendar API`, and an AI-driven agent, it makes man
 ### 1. Clone the repo  
 ```bash
 git clone https://github.com/reizn7/NextDimension-SchedulerAgentTask.git
-cd smart-scheduler-agent
+cd google_search_agent
 
 
 
