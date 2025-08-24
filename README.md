@@ -26,9 +26,12 @@ Powered by `Python`, `Google Calendar API`, and an AI-driven agent, it makes man
 
 ---
 
-##📂 Project Structure
-├── google_search_agent
-│   │   sechduler_tools.py #for calendar api
-│   │   agent.py #agent to schedule using tools
+## ⚙️ Setup & Installation  
+
+### 1. Clone the repo  
+```bash
+git clone https://github.com/reizn7/NextDimension-SchedulerAgentTask.git
+cd smart-scheduler-agent
+
 
 
