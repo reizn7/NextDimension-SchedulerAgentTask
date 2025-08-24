@@ -27,7 +27,8 @@ Powered by `Python`, `Google Calendar API`, and an AI-driven agent, it makes man
 ---
 
 ##📂 Project Structure
-google_search_agent/
-│── agent.py              # Agent logic & instruction
-│── scheduler_tools.py    # Calendar API helpers
+├── google_search_agent
+│   │   sechduler_tools.py #for calendar api
+│   │   agent.py #agent to schedule using tools
+
 
